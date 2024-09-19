@@ -10,8 +10,8 @@ website:
     left:
       - text: "My research"
         href: index.qmd
-      - text: "About me"
-        href: about.qmd
+      - text: "Report"
+        href: assets/report.qmd
 
 format:
   html:
